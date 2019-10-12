@@ -1,0 +1,14 @@
+<widget id="com.mati.tresenlinea" version="1.0">
+        <name>Tic Tac Toe</name>
+        <description>
+            Tic Tac
+        </description>
+        <author email="" href="">
+            Matiasss24
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+		<icon src="res/icon.png"/>
+		<preference name="Fullscreen" value="true" />
+    </widget>
+
