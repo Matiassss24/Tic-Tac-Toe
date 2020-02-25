@@ -10,5 +10,5 @@
         <access origin="*" />
 		<icon src="img/icon.png"/>
 	<preference name="StatusBarOverlaysWebView" value="true" />
-<preference name="StatusBarBackgroundColor" value="yellow" />
+<preference name="StatusBarBackgroundColor" value="#BE1912" />
     </widget>
