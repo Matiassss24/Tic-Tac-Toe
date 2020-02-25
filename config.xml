@@ -9,5 +9,6 @@
         <content src="index.html" />
         <access origin="*" />
 		<icon src="img/icon.png"/>
-	<statusbar color="yellow">
+	<preference name="StatusBarOverlaysWebView" value="true" />
+<preference name="StatusBarBackgroundColor" value="yellow" />
     </widget>
